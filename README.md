@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/05Atharva/ARTEMIS/blob/main/banner.png" alt="ARTEMIS Banner" />
+  <img src="https://github.com/Sarang2401/ARTEMIS/blob/main/banner.png" alt="ARTEMIS Banner" />
 </p>
 
 <p align="center">
