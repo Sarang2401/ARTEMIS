@@ -1,0 +1,13 @@
+{
+    "timestamp": "2025-04-06T17:03:30.222958",
+    "total_samples": 25192,
+    "anomaly_count": 2520,
+    "anomaly_percentage": 10.0,
+    "top_anomalous_features": [
+        "service",
+        "logged_in",
+        "flag",
+        "num_compromised",
+        "wrong_fragment"
+    ]
+}
