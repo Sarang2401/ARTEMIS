@@ -17,10 +17,7 @@
 
 ---
 
-## 📂 Repository Structure
-
-├── DDOS/ │ ├── dataset/ # Dataset for DDoS detection model │ └── code.py # ML model to detect DDoS attacks │ ├── Incident Response Plan/ │ └── IRP.pdf # Incident Response Plan (IRP) document │ ├── Phishing/ │ ├── phishing_ml_code.py # ML model for phishing detection │ └── server.py # Backend server for phishing detection │ ├── WAF/ │ ├── inputpage.html # Input form for WAF │ └── waf_defense.py # Python script for SQL Injection & XSS defense
-
+<pre> ## 📂 Repository Structure ``` ├── DDOS/ │ ├── dataset/ # Dataset for DDoS detection model │ └── code.py # ML model to detect DDoS attacks │ ├── Incident Response Plan/ │ └── IRP.pdf # Incident Response Plan (IRP) document │ ├── Phishing/ │ ├── phishing_ml_code.py # ML model for phishing detection │ └── server.py # Backend server for phishing detection │ ├── WAF/ │ ├── inputpage.html # Input form for WAF │ └── waf_defense.py # Python script for SQL Injection & XSS defense ``` </pre>
 
 ---
 
